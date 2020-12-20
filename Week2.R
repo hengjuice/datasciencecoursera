@@ -49,14 +49,3 @@ corr <- function(directory, threshold = 0){
 cr <- corr("specdata", 400)
 head(cr)
 
-
-
-
-
-
-
-
-
-
-
-

@@ -1,3 +1,6 @@
+//Answers for Week 2 Programming Assignment for 'R Programming' course
+
+
 print(R.version.string)
 setwd("C:/Users/Jiu Xiao/Downloads/rprog_data_specdata")
 
